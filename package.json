@@ -1,25 +1,25 @@
 {
-  "name": "frontend-boilerplate",
+  "name": "new-project-template",
   "version": "1.0.0",
-  "description": "Simple front-end boilerplate using Gulp 4",
+  "description": "New project template",
   "main": "gulpfile.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thecodercoder/frontend-boilerplate.git"
+    "url": ""
   },
   "keywords": [
     "gulp",
-    "boilerplate",
+    "starter",
     "html",
     "css",
     "javascript"
   ],
-  "author": "@thecodercoder",
-  "license": "ISC",
+  "author": "Dana ONeil",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thecodercoder/frontend-boilerplate/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/thecodercoder/frontend-boilerplate#readme",
+  "homepage": "",
   "devDependencies": {
     "autoprefixer": "^9.7.0",
     "cssnano": "^4.1.10",
